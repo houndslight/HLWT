@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 17
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLWT - VST3", "HLWT_VST3.vcxproj", "{97844D2C-45E9-514C-8F87-530438BB2247}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947} = {8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}
+		{0855F80D-27DB-800A-18F7-EA9B24E24A84} = {0855F80D-27DB-800A-18F7-EA9B24E24A84}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLWT - Shared Code", "HLWT_SharedCode.vcxproj", "{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLWT - VST3 Manifest Helper", "HLWT_VST3ManifestHelper.vcxproj", "{0855F80D-27DB-800A-18F7-EA9B24E24A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97844D2C-45E9-514C-8F87-530438BB2247}.Debug|x64.ActiveCfg = Debug|x64
+		{97844D2C-45E9-514C-8F87-530438BB2247}.Debug|x64.Build.0 = Debug|x64
+		{97844D2C-45E9-514C-8F87-530438BB2247}.Release|x64.ActiveCfg = Release|x64
+		{97844D2C-45E9-514C-8F87-530438BB2247}.Release|x64.Build.0 = Release|x64
+		{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}.Debug|x64.ActiveCfg = Debug|x64
+		{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}.Debug|x64.Build.0 = Debug|x64
+		{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}.Release|x64.ActiveCfg = Release|x64
+		{8CE7FD5F-5BF4-3FE5-CC44-DA557AA92947}.Release|x64.Build.0 = Release|x64
+		{0855F80D-27DB-800A-18F7-EA9B24E24A84}.Debug|x64.ActiveCfg = Debug|x64
+		{0855F80D-27DB-800A-18F7-EA9B24E24A84}.Debug|x64.Build.0 = Debug|x64
+		{0855F80D-27DB-800A-18F7-EA9B24E24A84}.Release|x64.ActiveCfg = Release|x64
+		{0855F80D-27DB-800A-18F7-EA9B24E24A84}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
