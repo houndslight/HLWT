@@ -15,3 +15,9 @@ Doesn't really matter which you go with.
 - [JUCE Framework](https://juce.com/)
 
 - A DAW for testing [Reaper](https://www.reaper.fm/) should work fine it's free too
+
+### DEMO
+
+5/10/2024 - First Day.
+
+https://www.dropbox.com/scl/fi/tm4qzftc48vyl1aagzg9j/HLWT-Demo-Vid.mp4?rlkey=kmfiw3vf844eo5vjqzp7zex3u&st=cq0ykmhe&dl=0
