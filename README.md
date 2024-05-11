@@ -20,4 +20,4 @@ Doesn't really matter which you go with.
 
 5/10/2024 - First Day.
 
-https://www.dropbox.com/scl/fi/tm4qzftc48vyl1aagzg9j/HLWT-Demo-Vid.mp4?rlkey=kmfiw3vf844eo5vjqzp7zex3u&st=cq0ykmhe&dl=0
+https://houndslight.github.io/assets/hlwt-demo-vid001.mp4
