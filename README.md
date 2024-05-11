@@ -16,7 +16,11 @@ Doesn't really matter which you go with.
 
 - A DAW for testing [Reaper](https://www.reaper.fm/) should work fine it's free too
 
-### Demos (Will be updated as I make progress.)
+## Known Issues
+- Current version 0.0.1 has a problem with the midi function where it sticks on a note even if a key is being pressed.
+- The more notes you add the louder it gets.
+
+## Demos (Will be updated as I make progress.)
 
 5/10/2024 - First Day
 
